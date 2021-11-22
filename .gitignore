@@ -1,0 +1,5 @@
+credentials.json
+*.bam
+file-manifest.json
+gen3-client
+dataclient_linux.zip
